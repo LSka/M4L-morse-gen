@@ -8,7 +8,7 @@ You should now be able to see it in the "Generate" pane when selecting a MIDI cl
 # Usage
 Type anything in the text field and notes will be generated in the clip. The clip length is automatically adjusted to the phrase length.
 
-You can set the "Time unit", i. e. the length of the "dot" in Morse code (by conventions, "dot" is 1 unit long, "dash" is 3 units, "space" is 7 units; additionaly, separation between each dot or dash is 1 unit, and separation between letters is 3 units long).
+You can set the "Time unit", i. e. the length of the "dot" in Morse code (by convention, "dot" is 1 unit long, "dash" is 3 units, "space" is 7 units; additionaly, separation between each dot or dash is 1 unit, and separation between letters is 3 units long).
 
 By default every letter is associated with a specific MIDI note, so you can generate more interesting melodies or percussion patterns. You can change the assignments by clicking on the "Set Notes" button.
 
