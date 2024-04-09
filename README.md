@@ -2,7 +2,7 @@
 Max For Live MIDI Tool for Live 12 that generates MIDI clips based on Morse code
 
 # Installation
-Put anywhere in your Ableton search path (i. e. the User Folder or any other folder you added to "Places" in Live's browser).
+Put the .amxd file anywhere in your Ableton search path (i. e. the User Folder or any other folder you added to "Places" in Live's browser).
 You should now be able to see it in the "Generate" pane when selecting a MIDI clip.
 
 # Usage
